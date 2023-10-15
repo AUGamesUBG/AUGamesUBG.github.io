@@ -6,7 +6,7 @@
 .c4-logo {
   margin: 1rem 0 1rem 2rem;
   padding-right: 1rem;
-  border-right: 1px solid #dfdfdf;
+  border-right: 1px solid #7fb6eb;
 }
 
 .portal-service-logo {
@@ -24,11 +24,11 @@
 }
 
 .user-admin-menu.active a {
-  color: #f48220;
+  color: #7fb6eb;
 }
 
 .user-admin-menu.active {
-  background-color: #fefaf6;
+  background-color: #7fb6eb;
 }
 
 .user-admin-menu.active {
@@ -41,13 +41,13 @@
   right: 0;
   height: 0.15rem;
   width: 100%;
-  background: #f48220;
+  background: #7fb6eb;
   top: 2.875rem;
   content: "";
 }
 
 #login-link-id {
-  color: #f48220;
+  color: #7fb6eb;
   margin-right: 2rem;
 }
 
@@ -87,7 +87,7 @@ a:hover {
 }
 
 #user-menu-id li a {
-  color: #5d5c5b;
+  color: #7fb6eb;
 }
 
 #user-menu-id li a img {
@@ -117,7 +117,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #2d4765;
+  color: #7fb6eb;
   text-decoration: none;
   outline: none;
 }
